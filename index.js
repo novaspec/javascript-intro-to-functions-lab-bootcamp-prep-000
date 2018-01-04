@@ -7,15 +7,15 @@ function whisper(string) {
 function logShout(string) {
   return string.toUpperCase()
 }
-function longWhisper(string) {
+function lonWhisper(string) {
   return string.toLowerCase()
 }
-function shout(string) {
+function sayHiToGrandma(string) {
   return string.toUpperCase()
 }
-function shout(string) {
+function sayHiToGrandma(string) {
   return string.toUpperCase()
 }
-function shout(string) {
+function sayHiToGrandma(string) {
   return string.toUpperCase()
 }
