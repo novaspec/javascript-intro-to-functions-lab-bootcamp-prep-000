@@ -4,8 +4,8 @@ function shout(string) {
 function whisper(string) {
   return string.toLowerCase()
 }
-function longShout(string) {
-  return string.toAllCaps()
+function logShout(string) {
+  return string.toUpperCase()
 }
 function longWhisper(string) {
   return string.toLowerCase()
